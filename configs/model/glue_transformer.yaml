@@ -1,5 +1,5 @@
 _target_: src.models.glue_transformers.GLUETransformer
-model_name_or_path: "distilbert-base-uncased"
+model_name_or_path: "distilbert-base-uncased" #default setup
 learning_rate: 2e-5
 adam_epsilon: 1e-8
 warmup_steps: 0
