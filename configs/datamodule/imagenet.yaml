@@ -1,7 +1,0 @@
-_target_: src.datamodules.imagenet_datamodule.ImageNetDataModule
-data_dir: /dataset/ImageNet/Classification
-batch_size: 64
-num_classes: 1000
-num_workers: 8
-pin_memory: False
-persistent_workers: True
